@@ -1,0 +1,22 @@
+{
+  "Verschlüsselung": ["Verschluesselung", "Verschlüssellung"],
+  "Entschlüsselung": ["Entschluesselung", "Entschlüssellung"],
+  "BSI": ["B.S.I.", "B SI", "Besi", "B.S.I"],
+  "VS-NfD": ["VS NfD", "Fesnefde", "V.S. N.f.D.", "VS NfD", "VSNfD"],
+  "Authentifizierung": ["Autentifizierung", "Authentifizirung", "Authentifikation"],
+  "Zertifikat": ["Zerrtifikat", "Zertifikat", "Zertiffikat"],
+  "Firewall": ["Fajerwol", "Fayer Wohl", "Fajerwohl"],
+  "Verschlusssache": ["Verschlusssache", "Verschluss Sache", "Verschlußsache"],
+  "Informationssicherheit": ["Informationssicherheit", "Informationssicherhet"],
+  "Kryptographie": ["Kryptografie", "Kryptograffi", "Kryptographi"],
+  "TLS": ["T.L.S.", "T L S", "Teeles"],
+  "VPN": ["V.P.N.", "V P N", "Fau Pe En"],
+  "Active Directory": ["Aktive Direktory", "Aktive Directory", "Active Direktory"],
+  "Penetrationstest": ["Penetrationstest", "Pentest", "Pen-Test"],
+  "Schwachstelle": ["Schwachstele", "Schwachstele", "Schwachstellle"],
+  "Datenschutz": ["Datenschutz", "Dattenschutz", "Datenschutz-Grundverordnung"],
+  "DSGVO": ["D.S.G.V.O.", "Desgevo", "D S G V O", "GDPR"],
+  "Compliance": ["Komplijens", "Complijens", "Complienz"],
+  "Audit": ["Audet", "Ohdit", "Audiit"],
+  "Protokoll": ["Protokol", "Protokoll", "Protocoll"]
+}
