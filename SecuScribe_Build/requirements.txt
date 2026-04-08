@@ -1,0 +1,30 @@
+# secuscribe - Python Dependencies (Updated)
+# Target OS: Debian 13 (Bare Metal)
+# Installation strictly offline via pre-downloaded wheels:
+# pip install --no-index --find-links=/opt/secuscribe/wheels/ -r requirements.txt
+
+# Transcription & Audio Processing
+faster-whisper==1.0.1
+pyannote.audio==3.1.1
+pydub==0.25.1
+
+# Local LLM Integration (CPU/Hybrid)
+# Requires compilation or pre-built wheel matching target CPU
+llama-cpp-python==0.2.62
+
+# Post-Processing & Text Analysis
+thefuzz==0.22.1
+python-Levenshtein==0.25.1
+
+# Output Artifact Generation
+python-docx==1.1.0
+fpdf2==2.7.8
+Jinja2==3.1.3
+
+# Encryption
+python-gnupg==0.5.2
+
+# Web-Ingress Optional Dependencies (Only installed if --ingress web is specified)
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
